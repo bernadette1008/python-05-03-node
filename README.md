@@ -81,7 +81,7 @@ memory = []
 head, current, pre = None, None, None
 dataArray = ["다현", "정연", "쯔위", "사나", "지효"]
 
-#node 출력
+#메인 함수
 if __name__ == "__main__" :
 
     node = Node()
